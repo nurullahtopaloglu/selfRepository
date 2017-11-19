@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "976954498977",
+    "firebase_url": "https://pinbookv1.firebaseio.com",
+    "project_id": "pinbookv1",
+    "storage_bucket": "pinbookv1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976954498977:android:c60b95bb8368f3e1",
+        "android_client_info": {
+          "package_name": "com.example.asus.pinbookv1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976954498977-etijolfajglff777cq6qacdu9bkj5c3l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asus.pinbookv1",
+            "certificate_hash": "fd5159c55d0d1736eb6fbc1ab0dd2b5b734b1cdd"
+          }
+        },
+        {
+          "client_id": "976954498977-dfdfpa76vjs7pu1t3nf2mveb0anqemgr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4FwhYCbL2wPvRS3o46lhvyJcFQAvNicg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976954498977-dfdfpa76vjs7pu1t3nf2mveb0anqemgr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
