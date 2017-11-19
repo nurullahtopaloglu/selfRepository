@@ -56,7 +56,13 @@ public class MainActivity extends AppCompatActivity {
         }, 300000);
 
         startActivity(intent);
-
-
     }
+
+    private void Test() {
+
+        int i = 1 + 1;
+
+        return;
+    }
+
 }
