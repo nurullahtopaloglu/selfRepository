@@ -58,16 +58,5 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
-    private void Test() {
-
-        int i = 1 + 1;
-        int ii = 2 + 2;
-        int iii = i + ii;
-        int iiii = iii + ii;
-        String x;
-
-
-        return;
-    }
 
 }
